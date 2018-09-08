@@ -1,15 +1,8 @@
 # wal.vim
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
+![theme preview](https://0x0.st/svxF.png)
 
-A vim colorscheme for use with **[pywal](https://github.com/dylanaraps/pywal)**.
+This is a fork of the official [wal.vim], which is modified based on my personal
+taste.
 
-
-## Installation
-
-```vim
-" Using plug
-Plug 'dylanaraps/wal.vim'
-
-colorscheme wal
-```
+[wal.vim]: https://github.com/dylanaraps/wal.vim
