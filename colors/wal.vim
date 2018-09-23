@@ -170,7 +170,7 @@ highlight PmenuSbar             ctermbg=none
 highlight PmenuSel              ctermbg=none ctermfg=01   cterm=bold
 highlight PmenuThumb            ctermbg=none
 highlight Folded                ctermbg=none ctermfg=08   cterm=bold
-highlight IncSearch             ctermbg=none ctermfg=01
+highlight IncSearch             ctermbg=none ctermfg=04
 highlight Search                ctermbg=13   ctermfg=none
 highlight MatchParen            ctermbg=13   ctermfg=none
 highlight NERDTreeDirSlash      ctermbg=none ctermfg=04
