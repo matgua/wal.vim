@@ -1,6 +1,6 @@
 " Original author: Dylan Araps
 " Author:          Matteo Guarda
-" Webpage:         https://github.com/matteoguarda/wal.vim
+" Webpage:         https://github.com/matgua/wal.vim
 " License:         MIT
 " Description:     A fork of the official wal.vim, which is modified based on my personal taste.
 "
@@ -8,7 +8,7 @@
 " mine.
 " Basically it is a 150% lighter version of color0 when I'm using a dark theme
 " and a 20% lighter version of color7 when I'm using a light theme.
-" You can find the script at https://github.com/matteoguarda/dotfiles/raw/master/dotfiles/bin/bin/extend_pywal
+" You can find the script at https://github.com/matgua/dotfiles/raw/master/dotfiles/bin/bin/extend_pywal
 " To make it functional, follow the comments at the top of the script.
 
 highlight clear
